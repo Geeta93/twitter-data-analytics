@@ -6,6 +6,3 @@ Data Mining project which utilizes twitter data fetched using Twitter Streaming 
 
 # Environment
 Python, Spyder, Data Mining algorithms
-
-# Project paper
-https://www.dropbox.com/s/dhwcdiuxgqaxglo/Final%20Report_DataMining.doc?dl=0
